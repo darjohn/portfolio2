@@ -160,7 +160,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-mlb-hotdog-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .mlbhotdog:hover {
     cursor:pointer; 
@@ -171,7 +170,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-mlb-buster-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .mlbbuster:hover {
     cursor:pointer; 
@@ -182,7 +180,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-switch-and-save-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .switchandsave:hover {
     cursor:pointer; 
@@ -193,7 +190,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-saves-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .saves:hover {
     cursor:pointer; 
@@ -204,7 +200,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-quick-fix-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .quickfix:hover {
     cursor:pointer; 
@@ -215,7 +210,6 @@ h6 {
     height:250px;
     width:300px;
     background: url("images/banner-denver-legally-high-static.jpg");
-    margin:auto; /*position the [div] on the center*/
   }
   .legalhigh:hover {
     cursor:pointer; 
